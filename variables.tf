@@ -13,5 +13,5 @@ variable "tags" {
 variable "webapplocs" {
     description  = "List of locations for web apps"
     type         = list
-    default      = ["southeastasia", "eastasia"]
+    default      = []
 }
